@@ -1,0 +1,42 @@
+{
+  "name": "react-text-to-speech",
+  "version": "1.0.0",
+  "description": "A custom and handy react text to speech hook using react-speech-kit with more features.",
+  "license": "MIT",
+  "author": "Shamim Hasnain",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shadid06/react-text-to-speech.git"
+  },
+  "main": "dist/useCountdown.js",
+  "type": "module",
+  "module": "dist/useCountdown.js",
+  "types": "dist/useCountdown.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "speech",
+    "text-to-speech",
+    "ts",
+    "react-speech-kit",
+    "useSpeechSynthesis"
+  ],
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "@types/react": "^19.2.4",
+    "@types/react-speech-kit": "^3.0.0",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "react-speech-kit": "^3.0.1"
+  }
+}
