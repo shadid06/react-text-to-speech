@@ -13,13 +13,13 @@ A custom and handy React hook for text-to-speech functionality, built on top of 
 You can install the package using npm or yarn:
 
 ```bash
-npm install react-text-to-speech
+npm install react-text-to-speech-hook
 ```
 
 or
 
 ```bash
-yarn add react-text-to-speech
+yarn add react-text-to-speech-hook
 ```
 
 ## Usage
@@ -28,7 +28,7 @@ Here's a basic example of how to use the `useSpeekHook` in your React component:
 
 ```jsx
 import React, { useState } from "react";
-import { useSpeekHook } from "react-text-to-speech";
+import { useSpeekHook } from "react-text-to-speech-hook";
 
 const App = () => {
   const [text, setText] = useState("");
