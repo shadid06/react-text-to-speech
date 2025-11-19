@@ -1,6 +1,6 @@
 {
   "name": "react-text-to-speech-hook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A custom and handy react text to speech hook using react-speech-kit with more features.",
   "license": "MIT",
   "author": "Shamim Hasnain",
