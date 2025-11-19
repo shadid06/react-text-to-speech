@@ -8,10 +8,10 @@
     "type": "git",
     "url": "git+https://github.com/shadid06/react-text-to-speech.git"
   },
-  "main": "dist/useCountdown.js",
+  "main": "dist/useSpeekHook.js",
   "type": "module",
-  "module": "dist/useCountdown.js",
-  "types": "dist/useCountdown.d.ts",
+  "module": "dist/useSpeekHook.js",
+  "types": "dist/useSpeekHook.d.ts",
   "files": [
     "dist"
   ],
